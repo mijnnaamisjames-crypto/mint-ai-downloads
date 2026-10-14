@@ -1,6 +1,6 @@
-# Mint Windows beta downloads
+# Mint Windows downloads
 
-Official download repository for the Mint Windows beta.
+Official download repository for the Mint Windows.
 
 Website: https://mintai.pages.dev
 
