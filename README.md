@@ -1,28 +1,22 @@
 # Mint Windows downloads
 
-Official public download repository for Mint for Windows.
+Official public downloads: https://mintai.pages.dev
 
-Website, setup and privacy: https://mintai.pages.dev
+Mint 1.0.82 uses local text AI and local Dutch/English speech. No account,
+API key or AI usage bill; cloud AI and ElevenLabs are disabled. Approve the
+one-time approximately 1.14 GB local model/runtime download; speech components
+download separately with consent. Windows 10/11 x64, 8 GB RAM recommended.
+Experimental small model, best in English; Dutch/factual quality is limited.
 
-## Choose your own connection
+Supports up to 10 validated app/site launches, simple PNG drawings, explicit
+Google searches, YouTube watch-page opening and Windows output volume 0–100%.
+Ask first is the new-user default; Automatic is optional. No unrestricted PC
+control. Searches send only the explicit query to Google/YouTube. Opened sites
+use the network normally; verification/playback is never guaranteed or bypassed.
 
-- **Gemini:** bring your own Gemini API key. OpenCode is not needed.
-- **ChatGPT:** connect your own eligible account through separately installed
-  [OpenCode V2](https://opencode.ai/v2/). Mint lists supported chat models enabled
-  in the local service; actual access, availability and limits depend on your
-  account and OpenAI/OpenCode. No particular GPT version or plan is guaranteed.
+Unsigned software: verify the release SHA-256; never disable security software.
+Back up and close Mint before updating. User data stays in the separate profile;
+uninstall preserves it. No personal data, credentials or downloaded models are
+published. Older releases have different cloud-connection/privacy behavior.
 
-No shared login, developer key, subscription or AI credits are included. A
-ChatGPT subscription is not API credits. Messages/images go to the selected
-provider; ChatGPT login stays in OpenCode. Connecting makes that account active
-there. Provider usage and data terms apply; no automatic provider fallback.
-
-Limited desktop actions support Ask first (the new-public-profile default), not
-unrestricted PC control. Free local Dutch/English voice needs no voice API key;
-components download after consent. Optional cloud voice has separate credits and
-consents. Older releases may have different connection restrictions; use latest.
-
-Unsigned experimental Windows x64 software. Close Mint before updating. Read
-release notes and verify the SHA-256 before installing; do not disable security
-protections. Updates retain the separate user profile. No private app source,
-personal profiles, saved keys, account credentials or voice models are published.
+Setup/privacy: https://mintai.pages.dev/guide.html
